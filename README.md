@@ -22,3 +22,4 @@ The following will be added to Flux Launcher:
 <br>
 
 You can join the discord server to monitor the changes more actively: https://discord.gg/98TJY4JVnF
+![image](https://github.com/exexeeeex/Flux-Launcher/assets/90983538/cfe925d8-83d3-4fc9-a780-065fc0f04c08)
