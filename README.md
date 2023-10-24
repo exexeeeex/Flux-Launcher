@@ -4,7 +4,7 @@
 
 <a>This is my first “big” work in the C# language, which I will further develop. <br> You can now rate beta 0.1 and provide feedback on what you like and don't like. I will be glad to see your response. <br> </a>
 Flux Launcher has:
-<li">
+<li>
     Server list📋
   </li>
    <li>
